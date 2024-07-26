@@ -1,6 +1,6 @@
 # Hi there! I'm Johan Carrasco 👋
 
-Welcome to my GitHub profile! I'm an aspiring Full Stack Developer from Rancagua, Chile, currently learning and growing my skills in web development.
+I'm an aspiring Full Stack Developer from Rancagua, Chile, currently learning and growing my skills in web development.
 
 <details>
   <summary>About Me</summary>
