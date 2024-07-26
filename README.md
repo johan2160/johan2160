@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm an aspiring Full Stack Developer from Rancagua
 I'm passionate about creating dynamic and interactive web applications. I’m currently learning Full Stack development independently and have experience with a variety of technologies.
 
 - **Name**: Johan Carrasco
-- **Nickname**: johan2160
 - **Location**: Rancagua, Chile
 
 ## Technologies I Know
