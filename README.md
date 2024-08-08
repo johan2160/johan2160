@@ -16,7 +16,7 @@ I'm an aspiring Full Stack Developer from Chile, currently learning and growing 
   <summary>Technologies I Know</summary>
 
   - **Programming Languages**: Python, JavaScript
-  - **Frontend**: HTML, CSS, React, Tailwind, Bootstrap
+  - **Frontend**: HTML, CSS, React, Tailwind, Bootstrap, Sass
   - **Databases**: MySQL, MongoDB
   - **Version Control**: Git, GitHub
   - **Server Knowledge**: Basic knowledge of Windows Server and Linux
