@@ -25,7 +25,6 @@ I'm an aspiring Full Stack Developer from Chile, currently learning and growing 
 <details>
   <summary>Technologies I Plan to Learn</summary>
 
-  - Sass
   - Node.js
   - Express.js
   - Django
