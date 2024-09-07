@@ -25,10 +25,9 @@ I'm an aspiring Full Stack Developer from Chile, currently learning and growing 
 <details>
   <summary>Technologies I Plan to Learn</summary>
 
-  - Node.js
-  - Express.js
   - Django
   - Next.js
+  - React Native
 </details>
 
 <details>
