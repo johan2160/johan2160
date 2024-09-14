@@ -1,15 +1,18 @@
 # Hi there! I'm Johan Carrasco 👋
 
-I'm an aspiring Full Stack Developer from Chile, currently learning and growing my skills in web development.
+![Mi banner de Github](github-banner.png)
+
+I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Frontend development and currently expanding my expertise by learning Full Stack development, focusing specifically on Django.
 
 <details>
   <summary>About Me</summary>
   
-  I'm passionate about creating dynamic and interactive web applications. I’m currently learning Full Stack development independently and have experience with a variety of technologies.
+  I'm passionate about self-directed learning and enjoy picking up new skills on my own. I’m currently exploring Full Stack development, along with languages (the speaking kind, not just coding!). I also have a cat named Zeus who likes to keep me company during my learning sessions.
   
   - **Name**: Johan Carrasco
-  - **Nickname**: johan2160
+  - **Age**: 20
   - **Location**: Rancagua, Chile
+  - **Pronouns**: he/him
 </details>
 
 <details>
@@ -23,17 +26,18 @@ I'm an aspiring Full Stack Developer from Chile, currently learning and growing 
 </details>
 
 <details>
-  <summary>Technologies I Plan to Learn</summary>
+  <summary>Technologies I'm learning and planning to Learn</summary>
 
-  - Django
-  - Next.js
-  - React Native
+  - **Django** (actively learning)
+  - **Java + Android Studio** (actively learning)
+  - **Next.js** (I plan to learn)
+  - **React Native** (I plan to learn)
 </details>
 
 <details>
   <summary>Get in Touch</summary>
 
   - **LinkedIn**: [Johan Carrasco](https://www.linkedin.com/in/johan-carrasco-493a85319/)
-  - **Email**: [johan.p.2160@gmail.com](mailto:johan.p.2160@gmail.com)
+  - **Email**: [johandev21@gmail.com](mailto:johandev21@gmail.com)
   - **Portfolio**: [johan2160.github.io/Portfolio](https://johan2160.github.io/Portfolio/)
 </details>
