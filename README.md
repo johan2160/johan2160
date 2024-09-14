@@ -41,3 +41,4 @@ I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Fron
   - **Email**: [johandev21@gmail.com](mailto:johandev21@gmail.com)
   - **Portfolio**: [johan2160.github.io/Portfolio](https://johan2160.github.io/Portfolio/)
 </details>
+
