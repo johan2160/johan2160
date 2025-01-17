@@ -2,7 +2,7 @@
 
 ![Mi banner de Github](github-banner.png)
 
-I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Frontend development and currently expanding my expertise by focusing on Django.
+I'm a Full Stack Developer from Chile, with a solid foundation in Frontend development and currently expanding my expertise by focusing on Django.
 
 <details>
   <summary>About Me</summary>
