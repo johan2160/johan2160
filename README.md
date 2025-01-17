@@ -2,12 +2,12 @@
 
 ![Mi banner de Github](github-banner.png)
 
-I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Frontend development and currently expanding my expertise by learning Full Stack development, focusing specifically on Django.
+I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Frontend development and currently expanding my expertise by focusing on Django.
 
 <details>
   <summary>About Me</summary>
   
-  I'm passionate about self-directed learning and enjoy picking up new skills on my own. I’m currently exploring Full Stack development, along with languages (the speaking kind, not just coding!). I also have a cat named Zeus who likes to keep me company during my learning sessions.
+  I'm passionate about self-directed learning and enjoy picking up new skills on my own. I’m currently exploring Full Stack development.
   
   - **Name**: Johan Carrasco
   - **Age**: 20
@@ -20,6 +20,7 @@ I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Fron
 
   - **Programming Languages**: Python, JavaScript
   - **Frontend**: HTML, CSS, React, Tailwind, Bootstrap, Sass
+  - **Backend**: Django, Django Rest Framework
   - **Databases**: MySQL, MongoDB
   - **Version Control**: Git, GitHub
   - **Server Knowledge**: Basic knowledge of Windows Server and Linux
@@ -28,8 +29,6 @@ I'm an aspiring Full Stack Developer from Chile, with a solid foundation in Fron
 <details>
   <summary>Technologies I'm learning and planning to Learn</summary>
 
-  - **Django** (actively learning)
-  - **Java + Android Studio** (actively learning)
   - **Next.js** (I plan to learn)
   - **React Native** (I plan to learn)
 </details>
